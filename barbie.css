@@ -3,7 +3,7 @@ h1 {
     text-align:center;
 }
 
-body {background-color: rgb(221, 60, 148);
+body {background-color: rgb(224, 75, 157);
 }
  nav a {
     text-align: center;
@@ -11,4 +11,8 @@ body {background-color: rgb(221, 60, 148);
  }
  .princesa{
     text-align: center;
+ }
+ .imagem2{
+    width: 20%;
+ 
  }
