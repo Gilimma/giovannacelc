@@ -39,10 +39,8 @@ ul{
     width: 20%;
 }
 .borda {
-    border-color white;
+    border-color: white;
     border-width: 30px;
     border-style: solid;
-}
-
 }
 
